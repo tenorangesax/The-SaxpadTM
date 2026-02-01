@@ -5,9 +5,9 @@ This is the repo for my Modded Hackpad™, a test project to learn a bit before 
 <img width="1323" height="831" alt="Screenshot 2026-02-01 at 11 45 08 AM" src="https://github.com/user-attachments/assets/d43bf16d-f523-46ff-bab1-98baa8875162" />
 
 
-**CAD:**
+**INTERNALS:**
 My Hackpad features a 3d printed case for the PCB that houses 8 switches, 3 LEDs, and a Seeed XIAO RP2040 for the Microcontroller.
-<img width="1894" height="1028" alt="Screenshot 2026-02-01 at 9 15 09 AM" src="https://github.com/user-attachments/assets/a3a780cd-487e-4dbc-9511-53222c05e8d2" />
+<img width="1195" height="767" alt="Screenshot 2026-02-01 at 11 48 27 AM" src="https://github.com/user-attachments/assets/6fd3cd86-c636-4c86-a9b5-9007b0444e65" />
 
 **BILL OF MATERIALS:**
 - 8x Cherry MX Switches
