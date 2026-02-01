@@ -7,7 +7,8 @@ This is the repo for my Modded Hackpad™, a test project to learn a bit before 
 
 **INTERNALS:**
 My Hackpad features a 3d printed case for the PCB that houses 8 Keyswitches, 3 SK6812MINI LEDs, and a Seeed XIAO RP2040 for the Microcontroller.
-<img width="1195" height="767" alt="Screenshot 2026-02-01 at 11 48 27 AM" src="https://github.com/user-attachments/assets/6fd3cd86-c636-4c86-a9b5-9007b0444e65" />
+<img width="968" height="490" alt="Screenshot 2026-02-01 at 12 01 34 PM" src="https://github.com/user-attachments/assets/2bc6b363-2fcb-4d84-b7b9-4346568b7a19" />
+
 
 **BILL OF MATERIALS:**
 | Reference            | Qty | Value                | DNP | Exclude from BOM | Exclude from Board | Footprint                                                     | Datasheet                                                                  |
