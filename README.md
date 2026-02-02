@@ -26,6 +26,8 @@ SCHEMATIC:
 
 PCB:
 <img width="1610" height="721" alt="Screenshot 2026-02-01 at 12 03 21 PM" src="https://github.com/user-attachments/assets/fe4d5e41-a235-4ead-a2c6-8e4589fca0fe" />
+<img width="1081" height="628" alt="Hackpad_Modded_Base_PCB" src="https://github.com/user-attachments/assets/be7b700e-2b8b-4706-bb94-a0efb840361e" />
+
 
 TOP CASE:
 <img width="1572" height="945" alt="Screenshot 2026-01-31 at 9 33 07 PM" src="https://github.com/user-attachments/assets/2a4948ac-c701-456a-8abf-832fb1f49adf" />
