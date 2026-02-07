@@ -20,7 +20,7 @@ My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP 
 | S1,S2,S3,S4          |  4  | MX-Style switches (Keyswitch)|        |                |                    | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                 | ~                                                                          |
 | (Not in schematic)   | 4   | White Blank DSA keycaps|     |                |                    | (Not in schematic)                                            | ~                                                                          |
 | U1                   | 1   | XIAO-RP2040-DIP      |     |                  |                    | Seeed Studio XIAO Series Library:XIAO-RP2040-DIP              |                                                                            |
-
+| (Not in schematic)   | 1   | 3D Printed Case (2 parts, top and bottom case)    |     |                  |                    | (not in schematic)           |                                                                            |
 
 
 ***And the screenshots...***
