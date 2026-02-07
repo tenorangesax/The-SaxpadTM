@@ -8,7 +8,7 @@ It is a shortcut pad with a bare-bones design to show off all the (very cool) in
 
 **INTERNALS:**
 My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP for the microcontroller, MX-Style switches for the keyboard switches, a rotary encoder switch for adjusting things with a knob, and some SK6812MINI LEDs as the backlit RGB.
-<img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/692c7311-ce90-4238-921c-679159deba0a" />
+<img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/7d144992-db97-46de-93a7-5b77e9c1ebc7" />
 
 
 
