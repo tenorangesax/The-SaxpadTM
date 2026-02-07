@@ -8,6 +8,7 @@ It is a shortcut pad with a bare-bones design to show off all the (very cool) in
 
 **INTERNALS:**
 My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP for the microcontroller, MX-Style switches for the keyboard switches, a rotary encoder switch for adjusting things with a knob, and some SK6812MINI LEDs as the backlit RGB.
+<img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/692c7311-ce90-4238-921c-679159deba0a" />
 
 
 
@@ -16,7 +17,7 @@ My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP 
 | -------------------- | --- | -------------------- | --- | ---------------- | ------------------ | ------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | D1,D2,D3,D4          | 4   | SK6812MINI           |     |                  |                    | LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm                | https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf |
 | SW12                 | 1   | RotaryEncoder_Switch |     |                  |                    | Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | ~                                                                          |
-| S1,S2,S3,S4          | 4   | MX-Style switches (Keyswitch)|                |                    | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                 | ~                                                                          |
+| S1,S2,S3,S4          |  4 MX-Style switches (Keyswitch)|                |                    | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                 | ~                                                                          |
 | (Not in schematic)   | 4   | White Blank DSA keycaps|     |                |                    | (Not in schematic)                                            | ~                                                                          |
 | U1                   | 1   | XIAO-RP2040-DIP      |     |                  |                    | Seeed Studio XIAO Series Library:XIAO-RP2040-DIP              |                                                                            |
 
