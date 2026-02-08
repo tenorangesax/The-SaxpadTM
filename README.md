@@ -36,6 +36,5 @@ PCB:
 <img width="1081" height="628" alt="Modded_Hackpad_Final_Back" src="https://github.com/user-attachments/assets/60e5dfa3-77b0-45ac-9c69-d784cd114064" />
 
 CASE:
-<img width="1062" height="724" alt="Screenshot 2026-02-07 at 4 21 37 PM" src="https://github.com/user-attachments/assets/98217726-3225-4630-8fd1-8a80309aa965" />
-
+<img width="1222" height="780" alt="Saxpad_Full_Case_Picture" src="https://github.com/user-attachments/assets/da0eab37-8f45-4e06-9978-d9664f3caeb5" />
 
