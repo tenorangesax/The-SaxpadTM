@@ -1,5 +1,5 @@
 # The Saxpad™
-This is the repo for my Saxpad™, a test project to learn a bit before commiting to the R.A.P. It was my first time to ever do something like this, and took me a long time, but I'm proud of it.
+This is the repo for my Saxpad™ on [my Blueprint page](https://blueprint.hackclub.com/projects/11599), a test project to learn a bit before commiting to the R.A.P. It was my first time to ever do something like this, and took me a long time, but I'm proud of it.
 It is a shortcut pad with a bare-bones design to show off all the (very cool) internals.
 
 [WATCH THE DEMO VIDEO HERE!!!](https://youtube.com/shorts/sdoI10d_KeA?feature=share)
